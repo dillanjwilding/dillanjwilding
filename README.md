@@ -1,17 +1,15 @@
 <table width="100%">
   <tr>
+    <td>
+      [![Dillan's github stats](https://https://dillanjwilding.vercel.app//api?username=dillanjwilding&count_private=true&show_icons=true&theme=solarized-dark)](https://github.com/dillanjwilding)
+    </td>
+    <td>
+      [![Top Langs](https://https://dillanjwilding.vercel.app//api/top-langs/?username=dillanjwilding&layout=compact&theme=gruvbox)](https://github.com/dillanjwilding)
+    </td>
   </tr>
 </table>
 
 <!--
-
-    <td>
-      [![Dillan's github stats](https://github-readme-stats.vercel.app/api?username=dillanjwilding&count_private=true&show_icons=true&theme=solarized-dark)](https://github.com/dillanjwilding)
-    </td>
-    <td>
-      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dillanjwilding&layout=compact&theme=gruvbox)](https://github.com/dillanjwilding)
-    </td>
-
 **dillanjwilding/dillanjwilding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
