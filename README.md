@@ -1,10 +1,10 @@
 <table width="100%">
   <tr>
     <td>
-      [![Dillan's github stats](https://https://dillanjwilding.vercel.app//api?username=dillanjwilding&count_private=true&show_icons=true&theme=solarized-dark)](https://github.com/dillanjwilding)
+      [![Dillan's github stats](https://dillanjwilding.vercel.app//api?username=dillanjwilding&count_private=true&show_icons=true&theme=solarized-dark)](https://github.com/dillanjwilding)
     </td>
     <td>
-      [![Top Langs](https://https://dillanjwilding.vercel.app//api/top-langs/?username=dillanjwilding&layout=compact&theme=gruvbox)](https://github.com/dillanjwilding)
+      [![Top Langs](https://dillanjwilding.vercel.app//api/top-langs/?username=dillanjwilding&layout=compact&theme=gruvbox)](https://github.com/dillanjwilding)
     </td>
   </tr>
 </table>
