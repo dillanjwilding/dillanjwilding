@@ -7,6 +7,12 @@
 ### I'm a Husband, Developer, Entrepreneur, Mentor & Teacher
 
 <details>
+  <summary>⚡️ Github Stats</summary>
+
+  ![Dillan's Github Stats](https://github-readme-stats.dillanjwilding.vercel.app/api?username=dillanjwilding&count_private=true&show_icons=true&theme=solarized-dark)
+  ![Dillan's Top Languages](https://github-readme-stats.dillanjwilding.vercel.app/api/top-langs/?username=dillanjwilding&layout=compact&theme=gruvbox)
+</details>
+<details>
   <summary>🔭 I’m currently working on ...</summary>
 
   I have a lot of projects including open source software and content creation (tutorials, courses, blog articles, etc). Recently I've been making my own keyboard(s). Starting with Corne Helidox with a more ergonomic, non-Querty layout.
@@ -14,12 +20,6 @@
   ![express-authenticate](https://github-readme-stats.dillanjwilding.vercel.app/api/pin/?username=dillanjwilding&repo=express-authenticate&theme=onedark)
   ![react-forms](https://github-readme-stats.dillanjwilding.vercel.app/api/pin/?username=dillanjwilding&repo=react-forms&theme=onedark)
   ![react-layouts](https://github-readme-stats.dillanjwilding.vercel.app/api/pin/?username=dillanjwilding&repo=react-layouts&theme=onedark)
-</details>
-<details>
-  <summary>⚡️ Github Stats</summary>
-
-  ![Dillan's Github Stats](https://github-readme-stats.dillanjwilding.vercel.app/api?username=dillanjwilding&count_private=true&show_icons=true&theme=solarized-dark)
-  ![Dillan's Top Languages](https://github-readme-stats.dillanjwilding.vercel.app/api/top-langs/?username=dillanjwilding&layout=compact&theme=gruvbox)
 </details>
 
 - 🌱 I’m currently learning, among other things mostly technology related, Japanese.
