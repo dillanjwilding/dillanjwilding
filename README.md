@@ -1,7 +1,15 @@
-<img alt="Dillan's Github Stats" src="https://github-readme-stats.dillanjwilding.vercel.app
+<table width="100%">
+  <tr>
+    <td>
+      <img alt="Dillan's Github Stats" src="https://github-readme-stats.dillanjwilding.vercel.app
 /api?username=dillanjwilding&count_private=true&show_icons=true&theme=solarized-dark" />
-<img alt="Dillan's Top Languages" src="https://github-readme-stats.dillanjwilding.vercel.app
+    </td>
+    <td>
+      <img alt="Dillan's Top Languages" src="https://github-readme-stats.dillanjwilding.vercel.app
 /api/top-langs/?username=dillanjwilding&layout=compact&theme=gruvbox" />
+    </td>
+  </tr>
+</table>
 
 <!--
 **dillanjwilding/dillanjwilding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
