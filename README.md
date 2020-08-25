@@ -22,8 +22,6 @@
   ![Dillan's Top Languages](https://github-readme-stats.dillanjwilding.vercel.app/api/top-langs/?username=dillanjwilding&layout=compact&theme=gruvbox)
 </details>
 
-<br />
-
 - 🌱 I’m currently learning, among other things mostly technology related, Japanese.
 - 👯 I’m looking to collaborate on open source software and content creators.
 - 🤔 I’m looking for help with ...
