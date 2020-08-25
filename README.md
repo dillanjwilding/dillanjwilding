@@ -2,26 +2,25 @@
 
 [![Website](https://img.shields.io/website?label=dillanjwilding.com&style=flat-square&url=https%3A%2F%2Fdillanjwilding.com)](https://dillanjwilding.com)
 [![Linkedin](https://img.shields.io/badge/-dillanjwilding-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dillanjwilding/)](https://www.linkedin.com/in/dillanjwilding/)
-[![GitHub Follow](https://img.shields.io/github/followers/dillanjwilding?label=dillanjwilding&style=flat-square)](https://github.com/dillanjwilding)
 [![Twitter Follow](https://img.shields.io/twitter/follow/dillanjwilding?color=1DA1F2&logo=twitter&style=flat-square)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdillanjwilding&screen_name=dillanjwilding)
 
 ### I'm a Husband, Developer, Entrepreneur, Mentor & Teacher
 
-- <details>
-    <summary>🔭 I’m currently working on ...</summary>
+<details>
+  <summary>🔭 I’m currently working on ...</summary>
 
-    I have a lot of projects including open source software and content creation (tutorials, courses, blog articles, etc). Recently I've been making my own keyboard(s). Starting with Corne Helidox with a more ergonomic, non-Querty layout.
-    ![tabigation](https://github-readme-stats.dillanjwilding.vercel.app/api/pin/?username=dillanjwilding&repo=tabigation&theme=onedark)
-    ![express-authenticate](https://github-readme-stats.dillanjwilding.vercel.app/api/pin/?username=dillanjwilding&repo=express-authenticate&theme=onedark)
-    ![react-forms](https://github-readme-stats.dillanjwilding.vercel.app/api/pin/?username=dillanjwilding&repo=react-forms&theme=onedark)
-    ![react-layouts](https://github-readme-stats.dillanjwilding.vercel.app/api/pin/?username=dillanjwilding&repo=react-layouts&theme=onedark)
-  </details>
-- <details>
-    <summary>⚡️ Github Stats</summary>
+  I have a lot of projects including open source software and content creation (tutorials, courses, blog articles, etc). Recently I've been making my own keyboard(s). Starting with Corne Helidox with a more ergonomic, non-Querty layout.
+  ![tabigation](https://github-readme-stats.dillanjwilding.vercel.app/api/pin/?username=dillanjwilding&repo=tabigation&theme=onedark)
+  ![express-authenticate](https://github-readme-stats.dillanjwilding.vercel.app/api/pin/?username=dillanjwilding&repo=express-authenticate&theme=onedark)
+  ![react-forms](https://github-readme-stats.dillanjwilding.vercel.app/api/pin/?username=dillanjwilding&repo=react-forms&theme=onedark)
+  ![react-layouts](https://github-readme-stats.dillanjwilding.vercel.app/api/pin/?username=dillanjwilding&repo=react-layouts&theme=onedark)
+</details>
+<details>
+  <summary>⚡️ Github Stats</summary>
 
-    ![Dillan's Github Stats](https://github-readme-stats.dillanjwilding.vercel.app/api?username=dillanjwilding&count_private=true&show_icons=true&theme=solarized-dark)
-    ![Dillan's Top Languages](https://github-readme-stats.dillanjwilding.vercel.app/api/top-langs/?username=dillanjwilding&layout=compact&theme=gruvbox)
-  </details>
+  ![Dillan's Github Stats](https://github-readme-stats.dillanjwilding.vercel.app/api?username=dillanjwilding&count_private=true&show_icons=true&theme=solarized-dark)
+  ![Dillan's Top Languages](https://github-readme-stats.dillanjwilding.vercel.app/api/top-langs/?username=dillanjwilding&layout=compact&theme=gruvbox)
+</details>
 
 <br />
 
@@ -31,7 +30,10 @@
 - 💬 Ask me about anything. I'm an open book and I like to share and help.
 - 📫 How to reach me: Email, IM, or text are easiest. If all else fails call.
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: ...
+- 🥅 Goals: 
+  - 2020: Contribute more to open source software
+  - Life: I want to start my own software company
+- ⚡ Fun facts: I like to rock climb and fascinated by technology, security, and electronics.
 
 ## Languages & Tools:
 
@@ -58,6 +60,7 @@
 <img align="left" width="22px" alt="SQL" title="SQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" width="22px" alt="MySQL" title="MySQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" width="22px" alt="MongoDB" title="MongoDB" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+
 <br /><br />
 
 ## Connect with me:
