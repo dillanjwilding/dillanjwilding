@@ -13,9 +13,8 @@
   ![Dillan's Top Languages](https://github-readme-stats.dillanjwilding.vercel.app/api/top-langs/?username=dillanjwilding&layout=compact&theme=gruvbox)
 </details>
 <details>
-  <summary>🔭 I’m currently working on ...</summary>
+  <summary>🔭 I’m currently working on a lot of projects including open source software and content creation (tutorials, courses, blog articles, etc). Recently I've been making my own keyboard(s). Starting with a Corne Helidox with a more ergonomic, non-query layout.</summary>
 
-  I have a lot of projects including open source software and content creation (tutorials, courses, blog articles, etc). Recently I've been making my own keyboard(s). Starting with Corne Helidox with a more ergonomic, non-Querty layout.
   ![tabigation](https://github-readme-stats.dillanjwilding.vercel.app/api/pin/?username=dillanjwilding&repo=tabigation&theme=onedark)
   ![express-authenticate](https://github-readme-stats.dillanjwilding.vercel.app/api/pin/?username=dillanjwilding&repo=express-authenticate&theme=onedark)
   ![react-forms](https://github-readme-stats.dillanjwilding.vercel.app/api/pin/?username=dillanjwilding&repo=react-forms&theme=onedark)
@@ -23,14 +22,14 @@
 </details>
 
 - 🌱 I’m currently learning, among other things mostly technology related, Japanese.
-- 👯 I’m looking to collaborate on open source software and content creators.
-- 🤔 I’m looking for help with ...
+- 👯 I’m looking to collaborate on open source software and with content creators.
+- 🤔 I’m looking for help with improving so feedback, suggestions, and constructive criticism are appreciated.
 - 💬 Ask me about anything. I'm an open book and I like to share and help.
 - 📫 How to reach me: Email, IM, or text are easiest. If all else fails call.
-- 😄 Pronouns: He/him
 - 🥅 Goals: 
   - 2020: Contribute more to open source software
   - Life: I want to start my own software company
+- 😄 Pronouns: He/him
 - ⚡ Fun facts: I like to rock climb and fascinated by technology, security, and electronics.
 
 ## Languages & Tools:
