@@ -15,10 +15,9 @@
 <details>
   <summary>🔭 I’m currently working on a lot of projects including open source software and content creation (tutorials, courses, blog articles, etc). Recently I've been making my own keyboard(s). Starting with a Corne Helidox with a more ergonomic, non-query layout.</summary>
 
+  ![expressjs-authenticate](https://github-readme-stats.dillanjwilding.vercel.app/api/pin/?username=dillanjwilding&repo=expressjs-authenticate&theme=onedark)
+  ![more-react](https://github-readme-stats.dillanjwilding.vercel.app/api/pin/?username=dillanjwilding&repo=more-react&theme=onedark)
   ![tabigation](https://github-readme-stats.dillanjwilding.vercel.app/api/pin/?username=dillanjwilding&repo=tabigation&theme=onedark)
-  ![express-authenticate](https://github-readme-stats.dillanjwilding.vercel.app/api/pin/?username=dillanjwilding&repo=express-authenticate&theme=onedark)
-  ![react-forms](https://github-readme-stats.dillanjwilding.vercel.app/api/pin/?username=dillanjwilding&repo=react-forms&theme=onedark)
-  ![react-layouts](https://github-readme-stats.dillanjwilding.vercel.app/api/pin/?username=dillanjwilding&repo=react-layouts&theme=onedark)
 </details>
 
 - 🌱 I’m currently learning, among other things mostly technology related, Japanese.
