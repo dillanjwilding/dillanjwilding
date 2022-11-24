@@ -13,8 +13,7 @@
     <img src="https://img.shields.io/badge/-Dillan%20Wilding-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dillanjwilding/" alt="Dillan's LinkedIn Profile" />
   </a>
   <a href="https://stackoverflow.com/users/1483102/dillan-wilding">
-    <!-- Weird that the reputation number is "invalid parameters" when color is empty or a color but when it's "gree" it works -->
-    <img src="https://img.shields.io/stackexchange/stackoverflow/r/1483102?color=gree&label=Dillan%20Wilding&logo=stackoverflow&style=flat-square" alt="Dillan's StackOverflow Profile" />
+    <img src="https://img.shields.io/stackexchange/stackoverflow/r/1483102?label=Dillan%20Wilding&logo=stackoverflow&style=flat-square" alt="Dillan's StackOverflow Profile" />
   </a>
   <a href="https://www.youtube.com/user/DillanWilding">
     <img src="https://img.shields.io/youtube/channel/subscribers/UCUpLPsvxH9xLIv1HW0BhGfQ?logo=YouTube&style=flat-square" alt="Dillan's YouTube Channel">
