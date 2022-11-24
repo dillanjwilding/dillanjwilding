@@ -7,14 +7,15 @@
   <!-- <img src="https://komarev.com/ghpvc/?username=dillanjwilding&label=Profile%20views&color=0e75b6&style=flat" alt="@dillanjwilding page views" /> -->
 
   <a href="https://dillanjwilding.com">
-    <img src="https://img.shields.io/website?label=dillanjwilding.com&style=flat-square&url=https%3A%2F%2Fdillanjwilding.com" alt="Dillan's website's status" />
+    <img src="https://img.shields.io/website?label=dillanjwilding.com&style=flat-square&url=https%3A%2F%2Fdillanjwilding.com" alt="Dillan's Website's Status" />
   </a>
   <a href="https://www.linkedin.com/in/dillanjwilding/">
     <img src="https://img.shields.io/badge/-dillanjwilding-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dillanjwilding/" alt="Dillan's LinkedIn Profile" />
   </a>
   <a href="https://www.youtube.com/user/DillanWilding">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UCUpLPsvxH9xLIv1HW0BhGfQ?logo=YouTube&style=for-the-badge" alt="Dillan's YouTube Channel">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCUpLPsvxH9xLIv1HW0BhGfQ?logo=YouTube&style=flat-square" alt="Dillan's YouTube Channel">
   </a>
+  <!-- debating about using for-the-badge instead of flat-square -->
 </p>
 
 <!-- [![Website](https://img.shields.io/website?label=dillanjwilding.com&style=flat-square&url=https%3A%2F%2Fdillanjwilding.com)](https://dillanjwilding.com)
