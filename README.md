@@ -6,7 +6,7 @@
 <p align="center">
   <!-- <img src="https://komarev.com/ghpvc/?username=dillanjwilding&label=Profile%20views&color=0e75b6&style=flat" alt="@dillanjwilding page views" /> -->
 
-  <a href="https://dillanjwilding.com">
+  <a href="https://dillanjwilding.com" target="_blank">
     <img src="https://img.shields.io/website?label=dillanjwilding.com&style=flat-square&url=https%3A%2F%2Fdillanjwilding.com" alt="Dillan's Website's Status" />
   </a>
   <a href="https://www.linkedin.com/in/dillanjwilding/" target="_blank">
