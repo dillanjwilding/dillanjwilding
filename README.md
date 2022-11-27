@@ -10,13 +10,13 @@
     <img src="https://img.shields.io/website?label=dillanjwilding.com&style=flat-square&url=https%3A%2F%2Fdillanjwilding.com" alt="Dillan's Website's Status" />
   </a>
   <a href="https://www.linkedin.com/in/dillanjwilding/" target="_blank">
-    <img src="https://img.shields.io/badge/-Dillan%20Wilding-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dillanjwilding/" alt="Dillan's LinkedIn Profile" />
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dillanjwilding/" alt="Dillan's LinkedIn Profile" />
   </a>
   <a href="https://stackoverflow.com/users/1483102/dillan-wilding" target="_blank">
-    <img src="https://img.shields.io/stackexchange/stackoverflow/r/1483102?label=Dillan%20Wilding&logo=stackoverflow&style=flat-square" alt="Dillan's StackOverflow Profile" />
+    <img src="https://img.shields.io/stackexchange/stackoverflow/r/1483102?label=StackOverflow&logo=stackoverflow&style=flat-square" alt="Dillan's StackOverflow Profile" />
   </a>
   <a href="https://www.youtube.com/user/DillanWilding" target="_blank">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UCUpLPsvxH9xLIv1HW0BhGfQ?logo=YouTube&style=flat-square" alt="Dillan's YouTube Channel">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCUpLPsvxH9xLIv1HW0BhGfQ?label=Subscribers&logo=YouTube&style=flat-square" alt="Dillan's YouTube Channel">
   </a>
   <!-- debating about using for-the-badge instead of flat-square -->
 </p>
